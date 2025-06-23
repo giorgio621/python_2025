@@ -1,0 +1,5 @@
+c = int(input("Ingrese la temperatura "))
+formula = float(9 / 5)
+segunda = int(32)
+far = float((c * formula) + int(segunda))
+print("La temperatura en grados far es: " + str(far))
